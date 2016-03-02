@@ -3,9 +3,7 @@ Just a text file in a certain format so I can archive massive amounts of data in
 
 
 Format,
-
-
-For YouTube USER urls,
+    For YouTube USER urls,
 USERNAME|URL
 Example:
 SoaringFlight|https://www.youtube.com/user/SoaringFlight
