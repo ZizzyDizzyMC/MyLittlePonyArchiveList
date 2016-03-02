@@ -16,6 +16,5 @@ SoaringFlight|https://www.youtube.com/user/SoaringFlight
 For YouTube CHANNEL urls,
 USERNAME_CHANNELID|URL
 Example:
-````AstrokeFromMe_UCwf-nuBJHeIuPbNinkRH9jA|https://www.youtube.com/channel/UCwf-nuBJHeIuPbNinkRH9jA````
-
+`AstrokeFromMe_UCwf-nuBJHeIuPbNinkRH9jA|https://www.youtube.com/channel/UCwf-nuBJHeIuPbNinkRH9jA`
 USER urls are prefered over CHANNEL urls.
