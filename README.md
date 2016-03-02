@@ -6,8 +6,6 @@ Format,
 For YouTube USER urls,
 USERNAME|URL
 Example:
-
-
 SoaringFlight|https://www.youtube.com/user/SoaringFlight
 
 
